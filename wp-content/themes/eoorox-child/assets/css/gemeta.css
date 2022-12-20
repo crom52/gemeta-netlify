@@ -22,29 +22,29 @@
 }
 
 .tele-button{
-  background-image: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/icon-tele.png");
+  background-image: url("../img/icon-tele.png");
   margin-left:9%
 }
 .fb-button{
-  background-image: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/icon-fb.png");
+  background-image: url("../img/icon-fb.png");
 }
 
 .discord-button{
-  background-image: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/icon-discord.png");
+  background-image: url("../img/icon-discord.png");
 }
 
 .twitter-button{
-  background-image: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/icon-twitter.png");
+  background-image: url("../img/icon-twitter.png");
   
 }
 .youtube-button{
-  background-image: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/icon-youtube.png");
+  background-image: url("../img/icon-youtube.png");
 }
 .wordCarousel >span {
   min-width: max-content !important;
 }
 .logo{
-  background-image: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/logo2.png");
+  background-image: url("../img/logo2.png");
   width: 100vw;
   height: 30%; 
   background-size: contain;
@@ -75,10 +75,10 @@ html {
     width:100vw;
     background-position: center;
     background-size: cover;;
-    background: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/bg1.jpg") no-repeat;
+    background: url("../img/bg1.jpg") no-repeat;
 }
 .slogan {
-  background: url("http://gemeta.io/wp-content/themes/eoorox-child/assets/img/logo.png") no-repeat;
+  background: url("../img/logo.png") no-repeat;
   background-position:center;
   background-size:cover;
   height:100vh; 
